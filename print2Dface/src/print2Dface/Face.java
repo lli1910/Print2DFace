@@ -14,7 +14,7 @@ public class Face {
 		
 		for(String[] i: face) {
 			for(String j : i) {
-			    if(j == null) {
+			    if(j == null) { 
 					System.out.print(" ");
 			    }
 			    else
